@@ -10,13 +10,15 @@ This project uses https://playit.gg to skip port forwarding.
 
 3.Download and install Java 16 https://www.oracle.com/java/technologies/javase-jdk16-downloads.html 
 
-4.Modify start.bat to start with the ammount of ram you want. (modify "-Xmx4096M" [Default 4GB])  --OPTIONAL
+4.Run start.bat
 
-5.Modify server.properties (Example: "online-mode=true" set it to false if you want a non-premium server) --OPTIONAL
+5.Setup playit.gg https://playit.gg/guides/minecraft
 
-6.Run start.bat
+Optional Steps
 
-7.Setup playit.gg https://playit.gg/guides/minecraft
+1.Modify start.bat to start with the ammount of ram you want. (modify "-Xmx4096M" [Default 4GB])  --OPTIONAL
+
+2.Modify server.properties (Example: "online-mode=true" set it to false if you want a non-premium server) --OPTIONAL
 
 # Instructions -Method 2
 1.Download this repository.
@@ -31,10 +33,12 @@ This project uses https://playit.gg to skip port forwarding.
 
 5.Place server.jar and playit.exe into the folder of the repository.
 
-6.Modify start.bat to start with the ammount of ram you want. (modify "-Xmx4096M" [Default 4GB])  --OPTIONAL
+6.Run start.bat
 
-7.Modify server.properties (Example: "online-mode=true" set it to false if you want a non-premium server) --OPTIONAL
+7.Setup playit.gg https://playit.gg/guides/minecraft
 
-8.Run start.bat
+Optional Steps
 
-9.Setup playit.gg https://playit.gg/guides/minecraft
+1.Modify start.bat to start with the ammount of ram you want. (modify "-Xmx4096M" [Default 4GB])  --OPTIONAL
+
+2.Modify server.properties (Example: "online-mode=true" set it to false if you want a non-premium server) --OPTIONAL
