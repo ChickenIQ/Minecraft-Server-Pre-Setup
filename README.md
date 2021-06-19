@@ -17,7 +17,7 @@ This project uses https://playit.gg to skip port forwarding.
 
 6.Modify start.bat to start with the ammount of ram you want. You need to modify "-Xmx4096M" (Default 4GB)  --OPTIONAL
 
-7.Modify server.properties (Example: "online-mode=true" set it to false if you want a non-premium server.) --OPTIONAL
+7.Modify server.properties (Example: "online-mode=true" set it to false if you want a non-premium server) --OPTIONAL
 
 8.Run start.bat
 
