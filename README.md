@@ -8,15 +8,15 @@ This project uses https://playit.gg to skip port forwarding.
 
 2.Unarchive the file. (remove it from the archive but leave it in the folder)
 
-4.Download and install Java 16 https://www.oracle.com/java/technologies/javase-jdk16-downloads.html 
+3.Download and install Java 16 https://www.oracle.com/java/technologies/javase-jdk16-downloads.html 
 
-5.Modify start.bat to start with the ammount of ram you want. You need to modify "-Xmx4096M" (Default 4GB)  --OPTIONAL
+4.Modify start.bat to start with the ammount of ram you want. You need to modify "-Xmx4096M" (Default 4GB)  --OPTIONAL
 
-6.Modify server.properties (Example: "online-mode=true" set it to false if you want a non-premium server) --OPTIONAL
+5.Modify server.properties (Example: "online-mode=true" set it to false if you want a non-premium server) --OPTIONAL
 
-7.Run start.bat
+6.Run start.bat
 
-8.Setup playit.gg https://playit.gg/guides/minecraft
+7.Setup playit.gg https://playit.gg/guides/minecraft
 
 # Instructions -Method 2
 1.Download this repository.
