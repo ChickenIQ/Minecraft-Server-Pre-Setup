@@ -10,6 +10,7 @@ This project uses https://playit.gg to skip port forwarding.
 3.Download Java https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
 
 4.Download the latest version of playit.gg https://playit.gg/download
+
 To setup playit.gg you can use their guide. https://playit.gg/guides/minecraft
 
 
