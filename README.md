@@ -3,7 +3,7 @@ A minecraft server that has already been set up so you don't have to.
 
 This project uses https://playit.gg to skip port forwarding.
 
-# Instructions -Methon 1 (Simple)
+# Instructions -Method 1 (Simple)
 1.Download https://github.com/ChickenIQ/Minecraft-Server-Pre-Setup/releases/download/1.17/Minecraft-Server-Pre-Setup-1.17.zip
 
 2.Unarchive the file. (remove it from the archive but leave it in the folder)
