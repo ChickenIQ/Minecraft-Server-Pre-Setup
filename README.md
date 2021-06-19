@@ -9,7 +9,7 @@ This project uses https://playit.gg to skip port forwarding.
 
 2.Get the server file from https://www.minecraft.net/en-us/download/server and rename the file to server.jar
 
-3.Download Java https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
+3.Download and install Java https://www.oracle.com/java/technologies/javase-jdk16-downloads.html 
 
 4.Download the latest version of playit.gg https://playit.gg/download and rename it to playit.exe
 
