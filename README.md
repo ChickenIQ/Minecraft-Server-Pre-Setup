@@ -37,7 +37,7 @@ __OPTIONAL STEPS__
 
 7.Setup playit.gg https://playit.gg/guides/minecraft
 
-OPTIONAL STEPS
+__OPTIONAL STEPS__
 
 1.Modify start.bat to start with the ammount of ram you want. (modify "-Xmx4096M" [Default 4GB])  --OPTIONAL
 
