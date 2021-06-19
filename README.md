@@ -11,6 +11,6 @@ This project uses https://playit.gg to skip port forwarding.
 
 4.Download the latest version of playit.gg https://playit.gg/download
 
-To setup playit.gg you can use their guide. https://playit.gg/guides/minecraft
+5.Setup playit.gg https://playit.gg/guides/minecraft
 
 
