@@ -15,8 +15,12 @@ This project uses https://playit.gg to skip port forwarding.
 
 5.Place server.jar and playit.exe into the folder of the repository.
 
-6.Run start.bat
+6.Modify start.bat to start with the ammount of ram you want. You need to modify "-Xmx4096M" (Default 4GB)  --OPTIONAL
 
-7.Setup playit.gg https://playit.gg/guides/minecraft
+7.Modify server.properties (Example: "online-mode=true" set it to false if you want a non-premium server.) -OPTIONAL
+
+8.Run start.bat
+
+9.Setup playit.gg https://playit.gg/guides/minecraft
 
 
