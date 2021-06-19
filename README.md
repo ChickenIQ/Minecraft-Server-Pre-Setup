@@ -15,6 +15,8 @@ This project uses https://playit.gg to skip port forwarding.
 
 5.Place server.jar and playit.exe into the folder of the repository.
 
-6.Setup playit.gg https://playit.gg/guides/minecraft
+6.Run start.bat
+
+7.Setup playit.gg https://playit.gg/guides/minecraft
 
 
