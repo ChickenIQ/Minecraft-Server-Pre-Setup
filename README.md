@@ -3,7 +3,8 @@
 
 2.Unarchive the file. (remove it from the archive but leave it in the folder)
 
-2.Get the server file from https://www.minecraft.net/en-us/download/server and rename the file to server.jar
+2.Download https://www.minecraft.net/en-us/download/server or https://papermc.io/downloads if you want plugins and rename the file to server.jar 
+
 
 3.Download and install Java 16 https://www.oracle.com/java/technologies/javase-jdk16-downloads.html 
 
